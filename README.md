@@ -29,7 +29,7 @@ gcc main.c validators.c decimal.c inteiro.c cpf.c dataBR.c -o code
 
 ## Exemplo:
 
-![Exemplo](/images/exemplo.png)
+![Imagem exemplo](/images/exemplo.png)
 
 ---
 
